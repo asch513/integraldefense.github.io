@@ -19,8 +19,10 @@ Let's join forces and ***automate the ordinary!***
 
 _________________________________________________________________________________________________
 
+### Table of Contents
+**[Are You Winning](#are-you-winning)**<br>
 
-### Are You Winning? ###
+### Are You Winning
 
 What does winning look like in cybersecurity? 
 	
